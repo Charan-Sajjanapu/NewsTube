@@ -1,1 +1,1 @@
-const String API_KEY="AIzaSyDif9ZINxmnQspP4swwuQI7bG8Sg0iae-w";
+const String API_KEY="Place your API key here";
